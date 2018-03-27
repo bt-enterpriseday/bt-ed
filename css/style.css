@@ -1,0 +1,26 @@
+
+#logo > img{
+	padding: 10px;
+}
+
+#main-title h1 {
+	color: white;
+}
+
+.navbar-custom {
+    color: #07549b;
+    background-color: #46a0f4;
+}
+
+.navbar-custom li a{
+    color:#ffffff
+}
+
+#navigation a:hover, a:active {
+    display: block;
+    background-color: #00376b;
+}
+
+#top-div {
+	background-color: #000;
+}
