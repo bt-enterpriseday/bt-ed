@@ -69,8 +69,9 @@ h1, h2, h3, h4, h5 {
 
 #navigation a:hover, a:active {
     display: block;
-    background-color: #00376b;
+    background-color: #707e8b;
 }
+
 
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .active > a {
     background-image: -webkit-linear-gradient(top, #E2E2E2 0%, #B3B3B3 100%);
